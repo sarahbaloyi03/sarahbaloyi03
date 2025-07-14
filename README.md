@@ -1,5 +1,5 @@
 ## Hi there 👋My name is Sarah Baloyi
-<h3 align="center">🔍 Test Analyst | Automation Tester| Software Tester</h3>
+<h3>🔍 Test Analyst | Automation Tester| Software Tester</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 🎯 I am a passionate Test Analyst with hands-on experience in manual testing, user acceptance testing (UAT), and defect tracking.
 
-🔧 Skilled in tools like **JIRA**, **Postman**, **SQL**, and **TestRail**, and currently learning **Selenium** and **automation testing**.
+🔧 Skilled in tools like **JIRA**, **Postman**,  and **SQL**, and currently learning **Selenium** and **automation testing**.
 
 💬 I enjoy improving software quality, collaborating with cross-functional teams, and ensuring that business requirements are met with precision.
 
