@@ -1,7 +1,5 @@
 ## Hi there 👋My name is Sarah Baloyi
-
-<h1 align="center">Hi 👋, I'm Sarah Baloyi</h1>
-<h3 align="center">🔍 Test Analyst | QA & UAT Specialist | Future Business Analyst</h3>
+<h3 align="center">🔍 Test Analyst | Automation Tester| Software Tester</h3>
 
 ---
 
@@ -35,8 +33,8 @@
 
 📫 **Contact Me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- 📧 Email: sarah.baloyi@example.com  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/sarah-baloyi-99607735/))  
+- 📧 Email: sarahbaloyi03@gmail.com  
 
 ---
 
