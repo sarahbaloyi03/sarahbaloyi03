@@ -34,7 +34,7 @@
 📫 **Contact Me**
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sarah-baloyi-99607735)
+- 💼 LinkedIn:(https://www.linkedin.com/in/sarah-baloyi-99607735)
 - 📧 Email: sarahbaloyi03@gmail.com  
 
 ---
